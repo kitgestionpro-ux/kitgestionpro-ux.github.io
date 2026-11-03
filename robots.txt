@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitgestionpro-ux.github.io/sitemap.xml
